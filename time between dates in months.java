@@ -26,3 +26,5 @@
        )-(DAY(Start_Date__c)) + DAY(End_Date__c) +1)/30)
        )
      )))/100
+
+    //trying to get this shit to work properly
